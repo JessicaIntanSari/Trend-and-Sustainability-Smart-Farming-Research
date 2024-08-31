@@ -9,50 +9,52 @@ Trend and Sustainability: Smart Farming Research
 Latar Belakang
 
 Mewaspadai Krisis pangan yang mulai terjadi di dunia.
-Penyebab krisis pangan:
-• Pandemi covid 19
-• Perang rusia dan Ukraina 
-• Kondisi iklim yang tidak menentu 
+Penyebab krisis pangan: 
 
-Dampak lain perang Rusia-Ukraina 
--krisis energi
--krisis keuangan 
+1. Pandemi covid-19                          
+2. Perang rusia dan Ukraina                  
+3. Kondisi iklim yang tidak menentu          
 
-Kondisi di Indonesia 
-•Harga beberapa komoditas pangan, seperti jagung, gandum, dan kedelai terus naik karena stok menipis.
-•Harga BBM jenis Pertamax dinaikkan, salah satunya akibat perang Rusia-Ukraina.
+Dampak lain perang Rusia-Ukraina:            
+-krisis energi                               
+-krisis keuangan                             
 
-Pernyataan presiden Jokowi terkait krisis pangan dunia:
-•Mewanti-wanti kementerian dan perilaku usaha untuk mewaspadai krisis pangan yang mulai terjadi sejumlah negara.
-•Sekitar 13 juta di dunia mulai mengalami bencana kelaparan 
-•Kondisi diperparah karena 22 negara memilih menghentikan ekspor produk makanan.
-•Mendorong para pelaku usaha bergerak lebih banyak di sektor pangan karena banyak peluang yang bisa dimanfaatkan.
+Kondisi di Indonesia                         
+•Harga beberapa komoditas pangan, seperti jagung, gandum, dan kedelai terus naik karena stok menipis.                         
+•Harga BBM jenis Pertamax dinaikkan, salah satunya akibat perang Rusia-Ukraina.         
 
+Pernyataan presiden Jokowi terkait krisis pangan dunia:                                
+1. Mewanti-wanti kementerian dan perilaku usaha untuk mewaspadai krisis pangan yang mulai terjadi sejumlah negara.               
+2. Sekitar 13 juta di dunia mulai mengalami bencana kelaparan                            
+3. Kondisi diperparah karena 22 negara memilih menghentikan ekspor produk makanan.
+ 
+4. Mendorong para pelaku usaha bergerak lebih banyak di sektor pangan karena banyak peluang yang bisa dimanfaatkan.
+         
 Indeks ketahanan pangan global 2020, Indonesia berada pada peringkat 65 dari total 113 negara.
 
-Problematika Pertanian Di Indonesia 
-•Budaya vs Entrepreneur 
-•Petani Berusia Tua
-•Lahan Terbatas dan Tersebar 
-•Orientasi Produksi Bukan Pasar 
-•Tidak Ada Sistem Data Realtime
-•Benih Bermutu Terbatas
-•Infrastruktur Pendukung Lemah
-•Minim Teknologi
+Problematika Pertanian Di Indonesia          
+•Budaya vs Entrepreneur                      
+•Petani Berusia Tua                          
+•Lahan Terbatas dan Tersebar                 
+•Orientasi Produksi Bukan Pasar              
+•Tidak Ada Sistem Data Realtime              
+•Benih Bermutu Terbatas                      
+•Infrastruktur Pendukung Lemah               
+•Minim Teknologi                             
 
-Solusi: New Mindset 
-•Teknologi (Produktif dan Efisien)
-•Manajemen Modern
-•Orientasi Pasar(Lokal & Global)
-•SDM Kompeten
+Solusi: New Mindset                          
+•Teknologi (Produktif dan Efisien)           
+•Manajemen Modern                            
+•Orientasi Pasar(Lokal & Global)             
+•SDM Kompeten                                
 
 Perubahan yang terjadi pada society 5.0
-•Healtcare
-Dari: Datang ke fasilitas kesehatan.
+•Healtcare                                   
+Dari: Datang ke fasilitas kesehatan.         
 Menjadi: Telemedicin (populer saat Pandemi Covid-19).
 
-•Mobilitas
-Dari: Datang ke toko untuk membeli barang.
+•Mobilitas                                   
+Dari: Datang ke toko untuk membeli barang.   
 Menjadi: Belanja online shop, barang datang dengan sendirinya.
 dll.
 
@@ -82,3 +84,4 @@ Penggunaan drone, kecerdasan buatan, big data, IoT, satelit, dan sebagainya menj
 yang memungkinkan petani untuk mengoptimalkan pekerjaan mereka dan mendapatkan hasil yang lebih baik.
 Semua ini mengurangi persentase tenaga kerja manual, menurunkan biaya keuangan, dan meningkatkan volume produksi,
 sehingga membuat agribisnis lebih hemat biaya.
+
